@@ -2,11 +2,6 @@
 # Advanced Styling and JavaScript
 
 A hands-on project exploring advanced CSS styling techniques and modern JavaScript features to build dynamic, responsive, and visually engaging web interfaces.
-
-## 🌐 Live Demo
-
-[View Live Site](https://your-live-site-url.com)
-
 ## 📁 Project Structure
 
 advanced-styling-js/
