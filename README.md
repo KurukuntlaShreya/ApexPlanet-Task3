@@ -78,14 +78,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 📬 Contact
 Created by Your Name - feel free to reach out!
 
-yaml
-Copy
-Edit
-
----
-
-Let me know if you'd like to tailor this for a specific project (e.g., a portfolio site, SPA, or animation-heavy demo).
-
-
 
 
